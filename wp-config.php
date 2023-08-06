@@ -83,7 +83,6 @@ if ( ! defined( 'WP_DEBUG' ) ) {
 }
 
 
-<<<<<<< HEAD
 define('AUTH_KEY',         'dTOw3D0/+palfWiJn5w1cIwixmzkfpEzOs6fg1gxoFVwr1tmcbGt9rboguONmFMzk+Nr36BF1w+qFpyeoS/MTw==');
 define('SECURE_AUTH_KEY',  'OK1AjY/t2gzxrjRxyI6mmEWNDtvZrqTNZ09ilBXaAgx6FgEwa7TANnTLI9C5VvcUkabA/1zaxK2+PJw6nE3NZA==');
 define('LOGGED_IN_KEY',    '55BNjpsaylpZDwvO2qErVmayfGom18/odxvPOWMd8Lh552I75GJ+jK9ZExRN0drnvpg84TSxV2J7RddBhZ9UJg==');
@@ -92,16 +91,6 @@ define('AUTH_SALT',        'Svys5yP+h9WhHR1J9xLKoAXs9DcJnZ74iEgWYrpcHBM34S/0WW2o
 define('SECURE_AUTH_SALT', '/BzV73GocM3mBOv3W/snS7c9cof+vQi/8OWdgfee+4nZV+vWvtdv479LDOaD3qp5VpC8pIuscrNewWEtCLfbqQ==');
 define('LOGGED_IN_SALT',   'E1bdlYCgBtIrsYTCpFhX+7w5zCqgt42O1woUy1DnjssG1/JpOdB3GsV6Y/kPpVyMSqP0lrBI5/BvPf4FU+NPAA==');
 define('NONCE_SALT',       '8wIDoeK0sBeZccIEtiPV/Y250IHJ1WoT50Y4nNs18j+rTdm19xjhTXTp79NqwKGunokWa8TnKUAbeVA8hr4T8g==');
-=======
-define('AUTH_KEY',         '1f5Ov5BuhtEfypU+CSGPYJFtBniccpcXzilWwq5c4zrXc0dBLfJlGEyUQ3lvtK46ZAjX4SHx8fKXYv52HLfO4w==');
-define('SECURE_AUTH_KEY',  'NK52+rhnUAhpIWOHLJfUYdDMNMN9fkyXaaQRgzjxwnfd9PX1aRy3P5TIvGAxNa8+wBNS7m/psMAVsAom3Q3gQg==');
-define('LOGGED_IN_KEY',    'MzqEzyWN7HPBqcI2F7ZTlOyMZtPqBe+0GrZk16qgf2jaD6lahEYqRabiKTsU8HyHGI1lNgjFEO1J8Gl0+YntxQ==');
-define('NONCE_KEY',        'GeuTuCf8H2caqD4aC7nsDrJHUj+k2jDkdgj72GKDqCq8X49gRotEs+qpCZBwCSR/XMZ+aJyq9sbJDPUlbFkuAg==');
-define('AUTH_SALT',        '/lpT/NB9acqbl9isVhGzRcOMjSM/pHTONItabHXz9QgXI7oFvlp+Ws1olip0vfmWV/AhfBvyT+TXFilkCr/0mA==');
-define('SECURE_AUTH_SALT', '11UySOcNBli8IILf8929Jylv99UVpl/bk4IzBnr68A/eQB+AxSxgU6MSor8bumSDG+ZfIgv4JdUNIwpkyjJlWg==');
-define('LOGGED_IN_SALT',   'IaDNMAaFWnJoxWc1dLoN6bZLg2yvO9PIrkIwoL8J4MRJLtws2IyqyBh4dySYdqOnQ1SIth3KhJkTjKcJlDZHzg==');
-define('NONCE_SALT',       'MT16gh8X63zv2fpufNoHZr3FjM/+9nOijz++yXA/3rNvR2sF7ASIpCrlpzNTPykmx7JtlBlVeSJwDtLV6Brnhg==');
->>>>>>> 60e6e0a8edc3a5d1ccb9b95bc72fbde3f05a9794
 define( 'WP_ENVIRONMENT_TYPE', 'local' );
 /* That's all, stop editing! Happy publishing. */
 
