@@ -1,6 +1,6 @@
 # Food WordPress Website
 
-![Food Website](https://github.com/rimadjamaa/WordpressApp/tree/main/wp-content/capt/WP_Food)
+![Food Website](https://github.com/rimadjamaa/WordpressApp/blob/main/wp-content/capt/WP_Food.png)
 
 This is a WordPress website dedicated to sharing food-related content, recipes, restaurant reviews, and more. The website aims to inspire food lovers and provide valuable information about various cuisines, cooking tips, and restaurant recommendations.
 
